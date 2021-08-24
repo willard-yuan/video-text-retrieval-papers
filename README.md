@@ -11,6 +11,7 @@ The main goal is to collect text-to-video works in academia and industry.
 - [Multi-modal Transformer for Video Retrieval](https://hal.inria.fr/hal-02903209/document), ECCV 2020, [code](https://github.com/gabeur/mmt).
 - [VisRel: Media Search at Scale](https://research.fb.com/wp-content/uploads/2021/08/VisRel-Media-Search-at-Scale.pdf), SIGKDD 2021.
 - [Que2Search: Fast and Accurate Query and Document Understanding for Search at Facebook](https://research.fb.com/wp-content/uploads/2021/08/Que2Search-Fast-and-Accurate-Query-and-Document-Understanding-for-Search-at-Facebook.pdf), SIGKDD 2021.
+- [CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval](https://arxiv.org/abs/2104.08860), [code](https://github.com/ArrowLuo/CLIP4Clip).
 
 ## Datasets
 
