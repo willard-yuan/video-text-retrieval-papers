@@ -9,6 +9,8 @@ The main goal is to collect text-to-video works in academia and industry.
 - [Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval](https://arxiv.org/abs/2104.00650), arxiv 2021, [code](https://github.com/m-bain/frozen-in-time).
 - [MDMMT: Multidomain Multimodal Transformer for Video Retrieval](https://arxiv.org/abs/2103.10699), arxiv 2021.
 - [Multi-modal Transformer for Video Retrieval](https://hal.inria.fr/hal-02903209/document), ECCV 2020, [code](https://github.com/gabeur/mmt).
+- [VisRel: Media Search at Scale](https://research.fb.com/wp-content/uploads/2021/08/VisRel-Media-Search-at-Scale.pdf), SIGKDD 2021.
+- [Que2Search: Fast and Accurate Query and Document Understanding for Search at Facebook](https://research.fb.com/wp-content/uploads/2021/08/Que2Search-Fast-and-Accurate-Query-and-Document-Understanding-for-Search-at-Facebook.pdf), SIGKDD 2021.
 
 ## Datasets
 
