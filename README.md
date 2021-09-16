@@ -6,6 +6,7 @@ The main goal is to collect text-to-video works in academia and industry.
 
 ## Papers
 
+- [Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://arxiv.org/abs/2102.05918), arxiv 2021.
 - [Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval](https://arxiv.org/abs/2104.00650), arxiv 2021, [code](https://github.com/m-bain/frozen-in-time).
 - [MDMMT: Multidomain Multimodal Transformer for Video Retrieval](https://arxiv.org/abs/2103.10699), arxiv 2021.
 - [Multi-modal Transformer for Video Retrieval](https://hal.inria.fr/hal-02903209/document), ECCV 2020, [code](https://github.com/gabeur/mmt).
